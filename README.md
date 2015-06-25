@@ -1,3 +1,3 @@
 # minutrens-protractor
 
-Simple project for protractor statement's at Minutrade 
+Simple project for protractor's statement at Minutrade 
